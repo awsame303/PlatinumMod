@@ -16,8 +16,6 @@ out
 # gradle
 build
 .gradle
-.gitignore
-.gitattributes
 
 # other
 eclipse
